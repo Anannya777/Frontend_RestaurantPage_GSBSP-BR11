@@ -1,3 +1,3 @@
-# Frontend_ResturantPage_GSBSP-BR11.github.io
+# Frontend_RestaurantPage_GSBSP-BR11
 A Responsive Restaurant webpage.
 
